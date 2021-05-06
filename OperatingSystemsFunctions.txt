@@ -2,7 +2,13 @@ One function of the operating system is managing processes.
 The operating system tells the CPU how much energy and resources to give to each program, process, or device.
 When the user closes a program, the operating system tells the processer to stop giving resources to that program.
 If you have multiple programs and files open, the operating system tells the processor how much and what resources to give to each program.
+
 Another function of the operating system is managing all devices connected to the computer. 
 This would be the keyboard, monitor, mouse, speakers, microphone, printer, and many other things. 
 The operating system tells the monitor what to display, the keyboard tells the operating system what the user is typing, and the operating system interprets the input to communicate with programs and tells the monitor to display. 
 The user clicks the mouse and the operating system determines which program to interact with and tells the program, which tells the operating system its response, and the operating system determines how to communicate the output to the user. 
+
+Another function of the operating system is managing files on your computer. 
+If you plug in a USB thumb drive, the operating system recognizes it and might ask what you wanted to do with it, or if you wanted to view the files on the drive. 
+The user would indicate they wanted to view the files, and the operating system would locate and show the files to the user.
+If the user clicked on a program, the operating system would locate the appropriate program’s files and tell the program to run its processes.
